@@ -176,7 +176,7 @@ Alternative Hypothesis (H1): There is significant relationship between a country
 ## Residual Plot Govt Health Expenditure and  GDP
 ![Alt text](image-19.png)
 
-### Immunization of Diseases and GDP
+### Conclusions
 
 
 For the hypothetical testing of relationship between GDP and government expenditure we found that based on the statistical study, there is no significant relationship between government health expenditure and GDP in the provided data. The linear regression model provides insufficient evidence to indicate a link between these variables.Thus we failed to reject the null hypothesis.
