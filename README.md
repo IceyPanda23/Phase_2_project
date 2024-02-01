@@ -99,9 +99,73 @@ The correlation heatmap shows how various features in the data set are correlate
 
 ## Piechart
 The piechart shows the the distribution of developed and developing countries in the Dataset
+83% of the Countries are for Developing Countries and 17% are for Developed Countries
 ![Alt text](image-5.png)
 
 
+## Average GDP per African Countries over the Years
+In figure above shows the average GDP per capita of African countries through out the years of 2000 until the year of 2015.
 
+From the figure above there is a a slight dip in 2001 to 2002. This was because of the knock on effect of global economic slight down turn. This was caused by the lower world prices for the primary commodities that Africa exports. Also there was a reduced private capital flow most of which included foreign direct investment. 
 
+This was then followed closely by a steep increase from 2002 to 2004 this was mainly brought about by more African countries industrializing and the return to normal pricing for the products made by African Counties. This led to African exports growing significantly. 
+
+There was also a dip in 2004 and 2005 mostly due to the world import demand reducing.This greatly affected most African countries which are mostly raw material exporters. This reduced global demand saw a reduction in GDP per capita because african countries were earning less despite a huge growth in population. 
+
+There was a steep increase in the years between 2005 to 2008 this was mainly due to a combination of factors such as the governments spending more on education and industrialization. There was also the strong uptick of internet and technology across Africa and global demand for raw material which most African countries are a net explorer of. 
+The GDP per capita then took a sharp decline from 2007 to 2010  this was a knock on effect of the subprime mortage crisis in the United States and this had a knock on effect on global economies. This meant that most countries greatly reduced their imports and this greatly affected the GDP of most African countries. It then grew between 2010 and 2011 and then fell from the years 2012 to 2013 and then rose from 2013 to 2015 showing a positive trend
+
+![Alt text](image-7.png)
+
+## Average Life Expectancy for African Countries over the Years
+From the years of 2002 and 2003 there is a slight decrease in the average life expectancy in the continent. This was due to a combination of factors. Between the time period there was a huge drought in the region and mostly in the Horn Of Africa which saw milions affeted. HIV/AIDS also played a huge factor in reducing life expectancy
+
+In 2004 and 2007 there was an increase in Life expectancy as more and more countries invested in health care and eduction of the public. This led to reduce in harmful practices and sensitaization on matters AIDS. The continued investment in health by African countries led to an increase in people being able to afford healthcare and this led to an increase in Average Life Expectancy.
+
+The graph shows a major life expectancy increase and this is mostly because of education and increased spending by the governments on healthcare this greatly increases the quality and availability of people to get better healthcare.
+
+![Alt text](image-8.png)
+
+### Hypothesis 
+
+### Immunization of Diseases and GDP
+
+Null Hypothesis (H0) : There is no significant relationship  between a country’s immunization coverage and its GDP.
+
+Alternative Hypothesis (H1): There is significant relationship between a country’s immunization coverage and its GDP
+
+## Scatterplot for Polio
+
+![Alt text](image-9.png)
+## Scatterplot for Measles
+
+![Alt text](image-10.png)
+
+## Scatterplot for Hepatitis B
+![Alt text](image-20.png)
+## Scatterplot for Diphtheria
+
+![Alt text](image-11.png)
+
+## Linear Regression between GDP and Polio
+![Alt text](image-12.png)
+## Linear Regression between GDP and Measles
+
+![Alt text](image-13.png)
+## Linear Regression between GDP and HepatitisB
+
+![Alt text](image-14.png)
+## Linear Regression between GDP and Diphetheria
+
+![Alt text](image-15.png)
+## Scatterplot with Regression Line of Alcohol and  GDP
+![Alt text](image-16.png)
+## Scatterplot with Regression Line of Schooling and  GDP
+
+![Alt text](image-17.png)
+## Scatterplot with Regression Govt Health Expenditure and  GDP
+
+![Alt text](image-18.png)
+## Residual Plot Govt Health Expenditure and  GDP
+![Alt text](image-19.png)
 
