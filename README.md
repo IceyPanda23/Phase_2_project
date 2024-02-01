@@ -1,5 +1,16 @@
 ###  An Analysis of the Impact of Health and Education Metrics on GDP for African Countries"
 
+## Group Members
+
+    1. Kenneth Karanja
+    2. Ronald Kipengetich
+    3. Tom Mwambire
+    4. Paul Mwangi
+    5. Milton Kabute
+    6. Salman Yusuf
+
+![Alt text](<Firefly IMAGE OF alcohol, immunization of diseases, schooling, govt health expenditure affects GDP 6.jpg>)
+
 
 ## Introduction
 This project aims to predict GDP (Gross Domestic Product) based on health and education metrics. We have used linear modelling to understand how the health , education metrics impact on the GDP growth in considering which African Countries to invest in.
@@ -94,6 +105,3 @@ The piechart shows the the distribution of developed and developing countries in
 
 
 
-
-The information gained from analyzing the health and social metrics of countries across the world and the GDP per capita of the said countries can help the company to gain an edge in the global market by giving a clear picture what country they can invest in due to the labour force. 
-This can be done by collecting health and key economic data from relevant and trusted global organizations that can be analyzed to give important information as to enable business decisions to be made accurately.
