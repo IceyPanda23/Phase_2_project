@@ -52,10 +52,10 @@ Here are some key columns available in the dataset:
 The project employs statistical models such as linear regression, multiple regression, and correlation coefficients to understand relationships between the independent variables Life expectancY, Adult mortality, Infant deaths, Alcohol consumption, Education metrics BMI, Schooling, Health Metric BMI, Measles, Hiv/Aids and dependent variable GDP.
 
 ## Axis Investment and Consultancy Objective
-1. Develop investment strategies informed by data insights accounting the health, education metrics that influence GDP.
-2. Identify specific sectors in the East African Countries that can yield high returns based on correlation between health, education and financial metrics with GDP
-3. Assist in mitigating risks associated with health, education metrics on labor force and overall GDP growth.
-4. Market expansion in regions with East Africa that Health, education indicators suggest poetential GDP growth.
+1.Develop investment strategies informed by data insights accounting the health, education metrics that influence GDP.
+2.Identify specific sectors in the East African Countries that can yield high returns based on correlation between health, education and financial metrics with GDP
+3.Assist in mitigating risks associated with health, education metrics on labor force and overall GDP growth.
+4.Market expansion in regions with East Africa that Health, education indicators suggest poetential GDP growth.
 5.Client Advisories on best countries to invest.
 
 ## Hypothesis
