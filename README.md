@@ -35,14 +35,12 @@ Here are some key columns available in the dataset:
 - `Country`: Name of the country.
 - `Year`: Year of the data.
 - `Status`: Development status of the country (Developed or Developing).
-
-The project utilizes comprehensive dataset various factors
-    1. Life expectancy
-    2. Adult mortality
-    3. Alcohol consumption
-    4. Education metrics (Schooling)
-    5. Health Metric (BMI, Measles, Hiv/Aids)
-    6. GDP per capita
+- `Life expectancy`
+- `Adult mortality`
+- `Alcohol consumption`
+- `Education metrics (Schooling)`
+- `Health Metric (BMI, Measles, Hiv/Aids)`
+- `GDP per capita`
 
 ## Stakeholders
     1. Axis Investment and Consultancy
