@@ -60,5 +60,40 @@ Null Hypothesis (H0): There is no correlation between the percentage of total go
 Alternative Hypothesis (H1): There is a positive correlation between the percentage of total government expenditure a country allocates to health and its GDP
 
 
+
+## Frequency Distribution 
+
+![Alt text](image.png)
+
+## Outliers Visuals
+
+![Alt text](image-1.png)
+
+## Null Values Distribution
+There are 14 columns with missing values. The column with the most missing or null values is 652 which accounts for about 22.19 percent of the total values in the dataset 
+
+In order to greatly maximise the data that we have, we will replace the missing data with the mean values of the data columns
+
+![Alt text](image-2.png)
+
+## No Missing Values Visuals
+There are no missing Values after cleaning the dataset
+
+![Alt text](image-3.png)
+
+## Correlation Heatmap
+The correlation heatmap shows how various features in the data set are correlated with each other. The darker colors at the intersetion of the features shows a strong negative correlation value. This means that they may be inversly proportional. The lighter or closer to white the colors are shows a stronger positive correlation and may indicate that the features are more positively correlated
+
+![Alt text](image-4.png)
+
+## Piechart
+The piechart shows the the distribution of developed and developing countries in the Dataset
+![Alt text](image-5.png)
+
+
+
+
+
+
 The information gained from analyzing the health and social metrics of countries across the world and the GDP per capita of the said countries can help the company to gain an edge in the global market by giving a clear picture what country they can invest in due to the labour force. 
 This can be done by collecting health and key economic data from relevant and trusted global organizations that can be analyzed to give important information as to enable business decisions to be made accurately.
