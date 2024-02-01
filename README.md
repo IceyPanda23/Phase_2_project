@@ -1,16 +1,16 @@
-###  An Analysis of the Impact of Health and Education Metrics on GDP for East African Countries"
+###  An Analysis of the Impact of Health and Education Metrics on GDP for African Countries"
 
 
 ## Introduction
-This project aims to predict GDP (Gross Domestic Product) based on health and education metrics. We have used linear modelling to understand how the health , education metrics impact on the GDP growth in considering which East African Country to invest in.
+This project aims to predict GDP (Gross Domestic Product) based on health and education metrics. We have used linear modelling to understand how the health , education metrics impact on the GDP growth in considering which African Countries to invest in.
 
-Axis Investment and Consultancy is a world leading Wealth management, Investment Solutions and Consultancy firm that values people are part core unit in business and have vital role in business success. Axis Investment and Consultancy are looking to invest in  business but are also cognizant to economic health (GDP per capita) of the country they are based in. They believe that the health metrics of the population of East African Countries can determine if a countries are doing well economically. However, they do not have any factual  information to prove thi and decide on best performing GDP in East Africa. However, this project seeks to explore the best environments to invest based on the Health Factors, Education metrics as they have impact on GDP growth.
+Axis Investment and Consultancy is a world leading Wealth management, Investment Solutions and Consultancy firm that values people are part core unit in business and have vital role in business success. Axis Investment and Consultancy are looking to invest in  business but are also cognizant to economic health (GDP per capita) of the country they are based in. They believe that the health metrics of the population of African Countries can determine if a countries are doing well economically. However, they do not have any factual  information to prove this and decide on best performing GDP in African countries. However, this project seeks to explore the best environments to invest based on the Health Factors, Education metrics as social factos that have impact on GDP growth.
 
 Gross Domestic Product (GDP) is the standard measure of the value created by a country on the world stage through the production of goods and services throughout a given time. GDP per capita however is the sum of gross value added by all resident producers in the economy plus any product taxes (less subsidies) not included in the valuation of output, divided by mid-year population. In simpler terms, GDP per capita is a metric that shows the economic output per person. GDP and GDP per Capita are mostly calculated yearly although quarterly calculations are common though they are not as common as the yearly ones. Both GDP and GDP per capita do similar things but GDP per capita is more preferred since it considers the population of the country.
 
 ## Project Objectives
 
-The project goal is to find the relationship between health, education, finance metrics and GDP of the East African Countries. We strive to help Axis Investment and Consultancy undestand factors that have an  impact on the GDP growth through visual, application of statistical models like linear regression, multiple regression and correlation coeffeficient. Furthermore, this study enlightens the investors with the following
+The project goal is to find the relationship between health, education, finance metrics and GDP of the African Countries. We strive to help Axis Investment and Consultancy undestand factors that have an impact on the GDP growth through visual, application of statistical models like linear regression, multiple regression and correlation coeffeficient. Furthermore, this study enlightens the investors with the following
 
     1. Understand factors influencing GDP- Investigate correlation between Health, education metric, financial metrics and GDP of African Countries
     2. Make informed investment stategies leverage on data insights of factors influencing GDP growth.
@@ -20,11 +20,10 @@ The project goal is to find the relationship between health, education, finance 
 The project utilizs comprehensive dataset various factors
     1. Life expectancy
     2. Adult mortality
-    3. Infant deaths
-    4. Alcohol consumption
-    5. Education metrics (BMI, Schooling)
-    6. Health Metric (BMI, Measles, Hiv/Aids)
-    6 .GDP per capita
+    3. Alcohol consumption
+    4. Education metrics (Schooling)
+    5. Health Metric (BMI, Measles, Hiv/Aids)
+    6. GDP per capita
 
 ## Stakeholders
     1. Axis Investment and Consultancy
@@ -43,29 +42,22 @@ The project employs statistical models such as linear regression, multiple regre
 5.Client Advisories on best countries to invest.
 
 ## Hypothesis
-1.
+1.Immunizaation Coverage and GDP
+Null Hypothesis (H0)
+There is no significant relationship  between a country’s immunization coverage and its GDP.
+Alternative Hypothesis (H1): There is significant relationship between a country’s immunization coverage and its GDP
 
+2. Alcohol Consumption and GDP:
+Null Hypothesis (H0): There is no significant relationship between a country’s level of alcohol consumption and its GDP.
+Alternative Hypothesis (H1): There is a significant relationship  between a country’s level of alcohol consumption and its GDP.
 
+3.Education Level and GDP:
+Null Hypothesis (H0): There is no significant  relationship between a country’s average education level and its GDP.
+Alternative Hypothesis (H1): There is a positive correlation between a country’s average education level and its GDP.
 
-
-2.
-
-
-
-
-
-3.
-
-
-
-
-
-
-4.
-
-
-
-
+4. Government Health Expenditure and GDP:
+Null Hypothesis (H0): There is no correlation between the percentage of total government expenditure a country allocates to health and its GDP.
+Alternative Hypothesis (H1): There is a positive correlation between the percentage of total government expenditure a country allocates to health and its GDP
 
 
 The information gained from analyzing the health and social metrics of countries across the world and the GDP per capita of the said countries can help the company to gain an edge in the global market by giving a clear picture what country they can invest in due to the labour force. 
