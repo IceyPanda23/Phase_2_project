@@ -138,6 +138,9 @@ Null Hypothesis (H0) : There is no significant relationship  between a countryâ€
 
 Alternative Hypothesis (H1): There is significant relationship between a countryâ€™s immunization coverage and its GDP
 
+
+
+
 ## Scatterplot for Polio
 
 ![Alt text](image-9.png)
@@ -173,3 +176,29 @@ Alternative Hypothesis (H1): There is significant relationship between a country
 ## Residual Plot Govt Health Expenditure and  GDP
 ![Alt text](image-19.png)
 
+### Immunization of Diseases and GDP
+
+
+For the hypothetical testing of relationship between GDP and government expenditure we found that based on the statistical study, there is no significant relationship between government health expenditure and GDP in the provided data. The linear regression model provides insufficient evidence to indicate a link between these variables.Thus we failed to reject the null hypothesis.
+
+
+
+
+For the hypothetical testing of the relationship between Alcohol Consumption and GDP we found that we can reject the null hypothesis. This is because we can determine that there is a significant relationship between Schooling and GDP and this means hypothesis h1 stands based off of the f_pvalue.
+
+
+
+
+For the hypothetical testing of the relationship between GDP and Immunizations (Polio, Diphtheria, Hepatitis B, Measles) we found that we can reject null hypothesis since the f_pvalue was lower than the significance level thus we will rejected the Null Hypothesis.
+
+
+
+### Recommendations:
+
+Given that immunization may not have a direct impact on GDP in african countries as observed in the dataset,the investors are thus advised to diversify their portfolios across various sectors and industries. This can help mitigate risks associated with specific factors.
+
+
+While the test may not show a large significant association between Immunization and GDP however a healthier population can contribute to increased productivity and workforce participation over time thus it is recommended to invest in african countries that have more of its citizens being immunized.
+
+
+Its advisable to invest in african countries that have improved schooling since there is a significant statistal relationship between the two thus theres a higher chance of your investment having positibe returns
