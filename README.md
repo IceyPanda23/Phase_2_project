@@ -28,7 +28,15 @@ The project goal is to find the relationship between health, education, finance 
     3. Provide strategic advisories to clients with data driven understanding of economic growth.
 
 ### Data Source and Variables
-The project utilizs comprehensive dataset various factors
+Data Source : [Life Expectancy WHO Dataset](https://www.kaggle.com/datasets/augustus0498/life-expectancy-who/data)
+
+Here are some key columns available in the dataset:
+
+- `Country`: Name of the country.
+- `Year`: Year of the data.
+- `Status`: Development status of the country (Developed or Developing).
+
+The project utilizes comprehensive dataset various factors
     1. Life expectancy
     2. Adult mortality
     3. Alcohol consumption
