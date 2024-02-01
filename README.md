@@ -76,8 +76,6 @@ Alternative Hypothesis (H1): There is a positive correlation between a countryâ€
 Null Hypothesis (H0): There is no correlation between the percentage of total government expenditure a country allocates to health and its GDP.
 Alternative Hypothesis (H1): There is a positive correlation between the percentage of total government expenditure a country allocates to health and its GDP
 
-
-
 ## Frequency Distribution 
 
 ![Alt text](image.png)
