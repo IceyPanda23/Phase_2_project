@@ -143,16 +143,16 @@ Alternative Hypothesis (H1): There is significant relationship between a country
 
 ## Scatterplot for Polio
 
-![Alt text](Images/image-9.png)
+![Alt text](Images/scp_poliooutput.png)
 ## Scatterplot for Measles
 
-![Alt text](Images/image-10.png)
+![Alt text](Images/scp_measlesoutput.png)
 
 ## Scatterplot for Hepatitis B
-![Alt text](Images/image-20.png)
+![Alt text](Images/scp_heptbpoutput.png)
 ## Scatterplot for Diphtheria
 
-![Alt text](Images/image-11.png)
+![Alt text](Images/scp_dphoutput.png)
 
 ## Linear Regression between GDP and Polio
 ![Alt text](Images/image-12.png)
